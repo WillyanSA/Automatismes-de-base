@@ -12,9 +12,9 @@ Welcome to this repository! Here, you'll find my first steps into the world of a
 
 ## Comment utiliser / How to Use
 
-1. Clonez ce dépôt / Clone this repository: `git clone [https://www.merriam-webster.com/dictionary/depot](https://github.com/WillyanSA/Automatismes-de-base)`
-2. Naviguez vers le dossier du projet / Navigate to the project folder: `cd [Nom du Projet]`
-3. Exécutez le script Python / Run the Python script: `python [nom du script].py`
+1. Clonez ce dépôt / Clone this repository: `git clone (https://github.com/WillyanSA/Automatismes-de-base)`
+2. Naviguez vers le dossier du projet / Navigate to the project folder: `cd [Nom du Projet /Project name]`
+3. Exécutez le script Python / Run the Python script: `python [nom du script/script name].py`
 4. Vous pouvez également utiliser le planificateur de tâches de Windows pour une partie de ces projets. / You can also use the Windows Task Scheduler for part of these projects.
 ## Contributions
 
