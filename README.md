@@ -8,6 +8,7 @@ Welcome to this repository! Here, you'll find my first steps into the world of a
 
 * **Organisateur de fichiers / Files organizer**
 * **Nettoyeur de fichiers temporaires / Temporary files cleaner**
+* **Organisateur de taille / Size organizer**
 * ...
 
 ## Comment utiliser / How to Use
