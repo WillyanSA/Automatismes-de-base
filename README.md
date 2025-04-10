@@ -10,6 +10,7 @@ Welcome to this repository! Here, you'll find my first steps into the world of a
 * **Nettoyeur de fichiers temporaires / Temporary files cleaner**
 * **Organisateur de taille / Size organizer**
 * **Moniteur de disque / Disk monitor**
+* **Dossier de vide / empty folder**
 * ...
 
 ## Comment utiliser / How to Use
