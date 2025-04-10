@@ -11,6 +11,7 @@ Welcome to this repository! Here, you'll find my first steps into the world of a
 * **Organisateur de taille / Size organizer**
 * **Moniteur de disque / Disk monitor**
 * **Dossier de vide / empty folder**
+* **Renommer de fichiers / file renaming**
 * ...
 
 ## Comment utiliser / How to Use
