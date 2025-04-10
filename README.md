@@ -6,13 +6,12 @@ Welcome to this repository! Here, you'll find my first steps into the world of a
 
 ## Projets / Projects
 
-* **Organisateur de fichiers / Files organizer**
-* **Nettoyeur de fichiers temporaires / Temporary files cleaner**
-* **Organisateur de taille / Size organizer**
-* **Moniteur de disque / Disk monitor**
-* **Dossier de vide / empty folder**
-* **Renommer de fichiers / file renaming**
-* ...
+- [`organisateur_de_fichiers.py`](organisateur_de_fichiers.py) – Organize les fichiers dans des dossiers selon leur extension.
+- [`nettoyeur_de_fichiers_temporaires.py`](nettoyeur_de_fichiers_temporaires.py) – Supprime les fichiers temporaires inutiles.
+- [`organisateur_de_taille.py`](organisateur_de_taille.py) – Classe les fichiers selon leur taille.
+- [`moniteur_de_disque.py`](moniteur_de_disque.py) – Affiche l’espace disque disponible.
+- [`dossier_vide.py`](dossier_vide.py) – Crée un dossier vide par défaut.
+- [`renommer_de_fichiers.py`](renommer_de_fichiers.py) – Renomme les fichiers dans un dossier.
 
 ## Comment utiliser / How to Use
 
