@@ -28,7 +28,7 @@ Contributions are welcome! If you have suggestions for improvement or ideas for 
 ## Contact
 
 * Mon nom /  My name: Willyan Santos Arante
-* Mon adresse Email / My Email adress: WillyanArante@Outlook.com
+* Mon adresse Email / My Email adress: WillyanArante [at] Outlook [dot] com
 * Mon profil Github / My Github profile: 'https://github.com/WillyanSA/Automatismes-de-base'
 
 N'hésitez pas à me contacter si vous avez des questions ou des commentaires.
