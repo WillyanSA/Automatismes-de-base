@@ -12,6 +12,7 @@ Welcome to this repository! Here, you'll find my first steps into the world of a
 - [`moniteur_de_disque.py`](moniteur_de_disque.py) – Affiche l’espace disque disponible.
 - [`dossier_vide.py`](dossier_vide.py) – Crée un dossier vide par défaut.
 - [`renommer_de_fichiers.py`](renommer_de_fichiers.py) – Renomme les fichiers dans un dossier.
+- [`inventaire.py`](inventaire.py) – Liste les fichiers dans le dossier Téléchargements et écrit les noms dans un fichier Inventaire.txt.
 
 ## Comment utiliser / How to Use
 
