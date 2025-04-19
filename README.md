@@ -13,6 +13,7 @@ Welcome to this repository! Here, you'll find my first steps into the world of a
 - [`dossier_vide.py`](dossier_vide.py) – Crée un dossier vide par défaut.
 - [`renommer_de_fichiers.py`](renommer_de_fichiers.py) – Renomme les fichiers dans un dossier.
 - [`inventaire.py`](inventaire.py) – Liste les fichiers dans le dossier Téléchargements et écrit les noms dans un fichier Inventaire.txt.
+- [`rapport_d_usage.py`](repport_d_usage.py) - Crée des registres quotidiens avec les temps d'utilisation des machines et d'autres données.
 
 ## Comment utiliser / How to Use
 
